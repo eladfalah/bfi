@@ -10,7 +10,7 @@ char *ptape;
 
 int main(int argc, char* argv[]) {
     if (argc <= 1) {
-        printf("No input file provided.\n");
+        printf("oops!! No input file provided.\n");
         return 1;
     }
 
